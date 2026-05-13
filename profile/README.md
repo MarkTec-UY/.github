@@ -5,9 +5,10 @@
 
 <div align="center">
 
-![MarkTec Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,100:1d4ed8\&height=220\&section=header\&text=MarkTec\&fontSize=64\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35)
+<p align="center"><a href="https://marktec.ddns.net" target="_blank"><img src="https://github.com/josenorth/marktec-app/blob/9663bdbc610578266a3b7760ba2e0cbb488b842b/frontend/public/marktec-dark.svg" width="400"></a></p>
 
-# MarkTec
+
+## Sobre MarkTec
 
 ### Desarrollo de software con enfoque en producto, rendimiento y crecimiento
 
