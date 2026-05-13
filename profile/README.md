@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<p align="center"><a href="https://marktec.ddns.net" target="_blank"><img src="https://github.com/josenorth/marktec-app/blob/9663bdbc610578266a3b7760ba2e0cbb488b842b/frontend/public/marktec-dark.svg" width="400"></a></p>
+<p align="center"><a href="https://marktec.ddns.net" target="_blank"><img src="https://raw.githubusercontent.com/MarkTec-UY/.github/refs/heads/main/assets/marktec-dark.svg" width="400"></a></p>
 
 
 ## Sobre MarkTec
