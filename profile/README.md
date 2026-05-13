@@ -5,8 +5,14 @@
 
 <div align="center">
 
-<p align="center"><a href="https://marktec.ddns.net" target="_blank"><img src="https://raw.githubusercontent.com/MarkTec-UY/.github/refs/heads/main/assets/marktec-dark.svg" width="400"></a></p>
-
+<p align="center">
+  <a href="https://marktec.ddns.net" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkTec-UY/.github/refs/heads/main/assets/marktec-dark.svg">
+      <img src="https://raw.githubusercontent.com/MarkTec-UY/.github/refs/heads/main/assets/marktec.svg" width="400" alt="MarkTec">
+    </picture>
+  </a>
+</p>
 
 ## Sobre MarkTec
 
